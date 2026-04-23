@@ -1,2 +1,3 @@
 # dwarakeshv-portfolio
-The repository linking to my portfolio hosted on hugging face spaces
+
+Personal website showcasing my portfolio
